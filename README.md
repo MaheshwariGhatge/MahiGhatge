@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MahiGhatge
+- 👋 Hi, I’m @Maheshwari Ghatge
 - 👀 I’m interested in ...Data 
 - 🌱 I’m currently learning ...Data Science
 
